@@ -8,7 +8,7 @@
 </head>
 <body class="p-2">
     <h1>Coba Git Remote2</h1>
-    
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur, aliquid voluptas eos sit quas itaque officiis beatae quam illo cupiditate accusamus harum nemo eum, quibusdam odit quod facilis temporibus in.</p>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </html>
